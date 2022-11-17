@@ -67,6 +67,6 @@ lt(90)
 fd(50)
 pendown()
 color('white')
-write('England Flag',font=('arial',20,'normal'))
+write('Good luck England!',font=('arial',20,'normal'))
 
 done()
