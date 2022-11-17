@@ -52,6 +52,6 @@ fd(50)
 pendown()
 
 
-write('Auf geht's Deutschland!',font=('arial',20,'normal'))
+write('Allez Les Bleus!',font=('arial',20,'normal'))
 
 done()
