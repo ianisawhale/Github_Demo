@@ -50,6 +50,6 @@ lt(90)
 fd(50)
 pendown()
 
-write('Auf geht's Deutschland!',font=('arial',20,'normal'))
+write('Auf geht/'s Deutschland!',font=('arial',20,'normal'))
 
 done()
