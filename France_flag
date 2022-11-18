@@ -46,7 +46,7 @@ fd(300)
 pendown()
 color('white')
 
-write('Allez Les Bleus!',font=('arial',20,'normal'))
+write('god save the king!',font=('arial',20,'normal'))
 
 
 done()
